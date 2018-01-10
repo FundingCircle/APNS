@@ -14,8 +14,9 @@ It supports the 3rd wire format (command 2) with support for content-availible (
 DESC
 
   s.email = ["jpoz@jpoz.net", "thomas@kollba.ch", "engineering+APNS@fundingcircle.com"]
-  s.extra_rdoc_files = ["MIT-LICENSE"]
-  s.files = ["MIT-LICENSE", "README.textile", "Rakefile", "lib/apns", "lib/apns/core.rb", "lib/apns/notification.rb", "lib/apns.rb"]
+  s.licenses = ["MIT", "BSD-3-Clause"]
+  s.extra_rdoc_files = ["LICENSE", "MIT-LICENSE"]
+  s.files = ["LICENSE", "MIT-LICENSE", "README.textile", "Rakefile", "lib/apns", "lib/apns/core.rb", "lib/apns/notification.rb", "lib/apns.rb"]
   s.homepage = %q{http://github.com/jpoz/apns}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
