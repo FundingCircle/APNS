@@ -17,7 +17,7 @@ DESC
   s.licenses = ["MIT", "BSD-3-Clause"]
   s.extra_rdoc_files = ["LICENSE", "MIT-LICENSE"]
   s.files = ["LICENSE", "MIT-LICENSE", "README.textile", "Rakefile", "lib/apns", "lib/apns/core.rb", "lib/apns/notification.rb", "lib/apns.rb"]
-  s.homepage = %q{http://github.com/jpoz/apns}
+  s.homepage = %q{http://github.com/FundingCircle/apns}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
   s.summary = %q{Simple Apple push notification service gem}
